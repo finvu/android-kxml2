@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.robolectric</groupId>
 	<artifactId>android-kxml2</artifactId>
-	<version>4.1.2_r1_rc</version>
+	<version>4.1.2_r1_rc_p1</version>
 	<packaging>jar</packaging>
 
 	<parent>
